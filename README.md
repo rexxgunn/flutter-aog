@@ -1,4 +1,4 @@
-# aog
+# AOG (Álcool ou Gasolina)
 
 Uma simples aplicação em Flutter para comparação entre gasolina e álcool.
 
