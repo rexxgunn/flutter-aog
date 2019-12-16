@@ -1,6 +1,6 @@
 # aog
 
-A new Flutter application.
+Uma simples aplicação em Flutter para comparação entre gasolina e álcool.
 
 ## Getting Started
 
